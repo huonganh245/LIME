@@ -91,6 +91,9 @@ As can be seen in the figures above, the predictions change depending on which s
 LIME is implemented in both Python and R and is relatively easy to use, however it is still in the development phase and there are quite a few problems that need to be solved before it can be applied.
 
 
+### Quick demo on hot dog detector [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TJrcM5RfCQiKEI0XQh2H8EyQlAUbc1__)
+
+
 #### Sources
 
 
